@@ -80,6 +80,26 @@ Open the URL Streamlit prints (often `http://localhost:8501`).
 
 ---
 
+## Share with people who do not use Git
+
+Reviewers only need a web browser.
+
+### Option A — lasting public app (recommended)
+
+Deploy once to **Streamlit Community Cloud** (free):
+
+1. Open [share.streamlit.io](https://share.streamlit.io/) and sign in with GitHub (`EPR-dev`).
+2. **Create app** → repository `EPR-dev/robertson-ripple-effect`, branch `main`, main file `dashboard/app.py`.
+3. Share the `*.streamlit.app` URL Streamlit gives you. No Git required for reviewers.
+
+Direct deploy link (after you are signed in):
+
+https://share.streamlit.io/deploy?repository=EPR-dev/robertson-ripple-effect&branch=main&mainModule=dashboard/app.py
+
+### Option B — temporary live link from your PC
+
+While the StoryMap is running locally, a Cloudflare quick tunnel can expose it as a public `https://….trycloudflare.com` URL. That link only works while your computer stays on and the tunnel stays open — fine for a short feedback call, not for overnight review.
+
 ## How to give feedback
 
 You do **not** need GIS skills. Please walk the five pages and note:

@@ -1,0 +1,7 @@
+layer,features,crs
+study_area,1,EPSG:7856
+robertson_nature_reserve,1,EPSG:7856
+habitat_patches,702,EPSG:7856
+core_habitat_patches,784,EPSG:7856
+rainforest_patches,481,EPSG:7856
+roads_barriers,2033,EPSG:7856

@@ -1,0 +1,48 @@
+Acknowledgement page assets — credits
+
+Country artwork
+--------------
+File: dashboard/assets/acknowledgement/country_art.png
+Source: User-supplied artwork for the Acknowledgement of Country page.
+Note: Confirm artist name, community permissions, and licence before public publishing.
+      Dot-painting and related motifs may carry cultural meaning — credit the artist and
+      seek guidance from Traditional Custodians / the artist if this story is shared widely.
+
+Homepage hero artwork
+---------------------
+File: dashboard/assets/ripple_hero_rainforest.png
+Source: User-supplied rainforest painting (signed R Brewster in the image).
+Note: Confirm licence / permission for public portfolio use.
+
+Logos / wordmarks (Respect page)
+--------------------------------
+npws_raw.svg
+  Official NPWS + NSW Waratah coupled logo from environment.nsw.gov.au brand assets
+  (https://www.environment.nsw.gov.au/sites/default/files/2025-01/NPWS-waratah-coupled-rgb.svg).
+  Attribution / credit use only — not endorsement.
+
+openstreetmap.svg / openstreetmap_raw.svg
+  OpenStreetMap logo mark (OSMF trademark). Used for basemap attribution.
+
+esri.svg / esri_mark.svg
+  Esri mark from Simple Icons (CC0 path data) + Esri wordmark colour #0079C1.
+  Trademark of Esri — attribution for basemap tiles only.
+
+copernicus.svg / copernicus_raw.svg
+  Copernicus programme logo from climate.copernicus.eu theme assets; recolored for light cards.
+  Attribution for Copernicus GLO-30 DEM.
+
+nsw_bionet.svg, nsw_svtm.svg, spatial_nsw.svg
+  Attribution badges (Waratah-inspired mark + agency name). Not official agency lockups —
+  BioNet / SVTM / Spatial Services share NSW Government branding; replace with licensed
+  official files if obtained from DCCEEW / Spatial Services brand kits.
+
+Data providers credited in the StoryMap
+---------------------------------------
+- NSW BioNet — species observations
+- NSW SVTM — extant and pre-clear vegetation / rainforest
+- NPWS NSW — Robertson Nature Reserve estate
+- Spatial Services NSW — roads, water, boundaries
+- Esri — satellite / terrain basemap tiles
+- OpenStreetMap / CARTO — soft paper basemap
+- Copernicus GLO-30 — DEM / hillshade

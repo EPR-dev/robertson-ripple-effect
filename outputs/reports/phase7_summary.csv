@@ -1,0 +1,6 @@
+metric,value
+master_layers,27
+grid_cells,8210
+grid_fields,45
+master_gpkg,C:\Users\thesn\Gis_Workstation\robertson-ripple-effect\outputs\geopackage\robertson_conservation.gpkg
+processed_gpkg,C:\Users\thesn\Gis_Workstation\robertson-ripple-effect\data\processed\robertson_conservation.gpkg

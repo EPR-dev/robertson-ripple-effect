@@ -1,0 +1,4 @@
+habitat_class,n_patches,total_area_ha,median_area_ha,median_nn_distance_m,n_touching_reserve
+core,784,17387.17,1.27,46.2,1
+native,702,32525.7,1.14,45.4,1
+rainforest,481,5300.49,1.41,55.0,1

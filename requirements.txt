@@ -1,0 +1,22 @@
+# Core geospatial / pipeline
+pandas>=2.2.0
+geopandas>=1.0.0
+shapely>=2.0.0
+pyproj>=3.6.0
+rasterio>=1.3.0
+rioxarray>=0.15.0
+xarray>=2024.1.0
+requests>=2.31.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+openpyxl>=3.1.0
+pyarrow>=14.0.0
+fiona>=1.9.0
+numpy>=1.26.0
+
+# Community StoryMap (Streamlit)
+streamlit>=1.32.0
+streamlit-folium>=0.20.0
+folium>=0.16.0
+branca>=0.7.0
+pillow>=10.0.0

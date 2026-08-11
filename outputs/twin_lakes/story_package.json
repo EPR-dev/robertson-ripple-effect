@@ -1,0 +1,56 @@
+{
+  "project": "The Ripple Effect",
+  "hub": "Twin Lakes living story package",
+  "generated_at": "2026-08-10T22:45:19Z",
+  "baseline": {
+    "reserve_ha": 5.323773858883509,
+    "rainforest_ha": 5054.825067769003
+  },
+  "feeds": {
+    "species": {
+      "status": "ok",
+      "refreshed_at": null,
+      "neighbours_season_n": 9,
+      "neighbours_season_records": 32,
+      "top_neighbour": "Koala",
+      "roster_csv": "C:\\Users\\thesn\\Gis_Workstation\\robertson-ripple-effect\\outputs\\twin_lakes\\neighbours_season.csv",
+      "hydrated_from_disk": true,
+      "why": "Public listed-species records near the remnant show the landscape is used as refuge. This is association with habitat \u2014 not proof the reserve caused every sighting."
+    },
+    "greenness": {
+      "status": "ok",
+      "refreshed_at": null,
+      "ndvi_rainforest": 0.4670563638210296,
+      "ndvi_cleared": 0.4104264378547668,
+      "ndvi_delta": 0.0566299259662628,
+      "summary_csv": "C:\\Users\\thesn\\Gis_Workstation\\robertson-ripple-effect\\outputs\\twin_lakes\\greenness_summary.csv",
+      "hydrated_from_disk": true,
+      "why": "Higher greenness in remnant rainforest than cleared land is a living signal that this small protected patch sits inside vegetation that still functions as forest \u2014 supporting the case that the remnant (and growing it) matters for the community."
+    },
+    "fire": {
+      "status": "ok",
+      "refreshed_at": "2026-08-10T22:43:49Z",
+      "source": "nasa_firms_viirs_7d",
+      "notes": [
+        "RFS unavailable (403 Client Error: Forbidden for url: https://www.rfs.nsw.gov.au/feeds/allMajorIncidents.json)"
+      ],
+      "incidents_in_watch": 1,
+      "watch_buffer_km": 12.5,
+      "incident_titles": [
+        "VIIRS hotspot"
+      ],
+      "bushfire_prone_ha_in_master": 48413.18479846894,
+      "why": "Fire is one reason a small rainforest remnant matters: it is a cool, moist refuge in a fire-prone landscape. Hotspots nearby are a caution \u2014 not a claim the reserve stops fire."
+    }
+  },
+  "evidence_ladder": {
+    "place_facts": "Tiny gazetted reserve inside a larger rainforest remnant on volcanic/cool terrain.",
+    "landscape_function": "Remnant core, nearby patches, streams and edges explain how life can persist and grow.",
+    "living_association": "Public species records, greenness contrast, and fire context update why neighbours should care \u2014 without claiming the reserve caused every outcome."
+  },
+  "paths": {
+    "living_gpkg": "C:\\Users\\thesn\\Gis_Workstation\\robertson-ripple-effect\\outputs\\twin_lakes\\living_layers.gpkg",
+    "neighbours_season_csv": "C:\\Users\\thesn\\Gis_Workstation\\robertson-ripple-effect\\outputs\\twin_lakes\\neighbours_season.csv",
+    "greenness_summary_csv": "C:\\Users\\thesn\\Gis_Workstation\\robertson-ripple-effect\\outputs\\twin_lakes\\greenness_summary.csv"
+  }
+}

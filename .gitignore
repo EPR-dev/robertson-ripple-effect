@@ -1,0 +1,64 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Bulky regenerable downloads (keep folder placeholders)
+data/raw/**
+!data/raw/.gitkeep
+data/interim/**
+!data/interim/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+# Keep small reference tables / AOI specs
+!data/reference/**
+!data/reference/.gitkeep
+
+# Large analysis exports — keep summaries + reports; GPKG via Git LFS when tracked
+outputs/csv/**
+!outputs/csv/.gitkeep
+!outputs/csv/*.json
+!outputs/csv/*summary*
+!outputs/csv/reserve_ecological_profile.csv
+!outputs/csv/meet_the_locals_cards.csv
+!outputs/csv/species_summary_2km.csv
+
+# GeoPackages tracked via Git LFS (see .gitattributes) — allow the master package
+!outputs/geopackage/
+!outputs/geopackage/.gitkeep
+!outputs/geopackage/robertson_conservation.gpkg
+
+outputs/geojson/**
+!outputs/geojson/.gitkeep
+outputs/raster/**
+!outputs/raster/.gitkeep
+outputs/maps/**
+!outputs/maps/.gitkeep
+
+# Keep phase reports and twin_lakes story package
+!outputs/reports/
+!outputs/reports/**
+!outputs/twin_lakes/
+!outputs/twin_lakes/**
+
+logs/**
+!logs/.gitkeep
+
+# Large local GIS artefacts (non-project)
+*.gdb/
+*.aprx
+*.lyrx
+*.img
+*.ecw
+*.zip
+
+# Streamlit cache / secrets
+.streamlit/secrets.toml

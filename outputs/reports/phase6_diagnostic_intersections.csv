@@ -1,0 +1,3 @@
+diagnostic,true_cells,note
+riparian_gap AND on_public_land,141,Intersection for exploration only — not an index weight
+patch_gap_edge AND on_basalt_volcanic,23,Intersection for exploration only — not an index weight

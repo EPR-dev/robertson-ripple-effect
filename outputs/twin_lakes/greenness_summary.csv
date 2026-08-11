@@ -1,0 +1,4 @@
+class,mean_ndvi
+rainforest_remnant,0.46705636382102966
+cleared_non_native,0.41042643785476685
+delta_remnant_minus_cleared,0.05662992596626282

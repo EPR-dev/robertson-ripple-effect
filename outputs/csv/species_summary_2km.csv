@@ -1,0 +1,433 @@
+scientificName,taxon_group,vernacularName,stateConservation,countryConservation,n_records,year_min,year_max,is_threatened,is_sensitive
+Pteropus poliocephalus,Mammalia,Grey-headed Flying-fox,Vulnerable,Vulnerable,8,2013.0,2018.0,True,False
+Phascolarctos cinereus,Mammalia,Koala,Endangered,Endangered,5,2015.0,2020.0,True,False
+Dasyurus maculatus,Mammalia,Spotted-tailed Quoll,Vulnerable,Endangered,4,1980.0,2004.0,True,False
+Persicaria elatior,Flora,Tall Knotweed,Vulnerable,Vulnerable,1,1969.0,1969.0,True,False
+Petauroides volans,Mammalia,Southern Greater Glider,Endangered,Endangered,1,2016.0,2016.0,True,False
+Petroica phoenicea,Aves,Flame Robin,Vulnerable,Not Listed,1,1989.0,1989.0,True,False
+Vombatus ursinus,Mammalia,Bare-nosed Wombat,Not Listed,Not Listed,240,1992.0,2025.0,False,False
+Crinia signifera,Amphibia,Common Eastern Froglet,Not Listed,Not Listed,144,2003.0,2023.0,False,False
+Litoria verreauxii,Amphibia,Verreaux's Frog,Not Listed,Not Listed,77,2003.0,2023.0,False,False
+Limnodynastes peronii,Amphibia,Brown-striped Frog,Not Listed,Not Listed,69,2018.0,2023.0,False,False
+Pseudocheirus peregrinus,Mammalia,Common Ringtail Possum,Not Listed,Not Listed,68,2003.0,2025.0,False,False
+Platycercus elegans,Aves,Crimson Rosella,Not Listed,Not Listed,50,1992.0,2025.0,False,False
+Macropus giganteus,Mammalia,Eastern Grey Kangaroo,Not Listed,Not Listed,49,2013.0,2024.0,False,False
+Gymnorhina tibicen,Aves,Australian Magpie,Not Listed,Not Listed,31,1992.0,2025.0,False,False
+Tachyglossus aculeatus,Mammalia,Short-beaked Echidna,Not Listed,Not Listed,28,1980.0,2024.0,False,False
+Wallabia bicolor,Mammalia,Swamp Wallaby,Not Listed,Not Listed,27,2013.0,2025.0,False,False
+Doryphora sassafras,Flora,Sassafras,Not Listed,Not Listed,26,1966.0,2023.0,False,False
+Pyrrosia rupestris,Flora,Rock Felt Fern,Not Listed,Not Listed,25,1952.0,2023.0,False,False
+Eolophus roseicapilla,Aves,Galah,Not Listed,Not Listed,24,2003.0,2025.0,False,False
+Pittosporum multiflorum,Flora,Orange Thorn,Not Listed,Not Listed,23,1970.0,2023.0,False,False
+Eustrephus latifolius,Flora,Wombat Berry,Not Listed,Not Listed,21,1970.0,2023.0,False,False
+Geitonoplesium cymosum,Flora,Scrambling Lily,Not Listed,Not Listed,21,1970.0,2016.0,False,False
+Melicytus dentatus,Flora,Tree Violet,Not Listed,Not Listed,21,1970.0,2023.0,False,False
+Trichosurus vulpecula,Mammalia,Common Brushtail Possum,Not Listed,Not Listed,21,2012.0,2025.0,False,False
+Dacelo novaeguineae,Aves,Laughing Kookaburra,Not Listed,Not Listed,20,1992.0,2025.0,False,False
+Marsdenia rostrata,Flora,Milk Vine,Not Listed,Not Listed,20,1970.0,2016.0,False,False
+Smilax australis,Flora,Lawyer Vine,Not Listed,Not Listed,20,1966.0,2023.0,False,False
+Acacia melanoxylon,Flora,Blackwood,Not Listed,Not Listed,19,1963.0,2023.0,False,False
+Alisterus scapularis,Aves,Australian King-Parrot,Not Listed,Not Listed,19,1992.0,2024.0,False,False
+Tiliqua scincoides,Reptilia,Eastern Blue-tongue,Not Listed,Not Listed,19,1992.0,2025.0,False,False
+Austrelaps ramsayi,Reptilia,Highland Copperhead,Not Listed,Not Listed,18,2003.0,2021.0,False,False
+Gymnostachys anceps,Flora,Settler's Twine,Not Listed,Not Listed,18,1970.0,2016.0,False,False
+Ptilonorhynchus violaceus,Aves,Satin Bowerbird,Not Listed,Not Listed,18,1992.0,2025.0,False,False
+Lastreopsis microsora subsp. microsora,Flora,Creeping Shield Fern,Not Listed,Not Listed,17,1970.0,2010.0,False,False
+Macropus sp.,Mammalia,kangaroo / wallaby,Not Listed,Not Listed,17,2012.0,2022.0,False,False
+Microsorum scandens,Flora,Fragrant Fern,Not Listed,Not Listed,17,1970.0,2016.0,False,False
+Pittosporum undulatum,Flora,Sweet Pittosporum,Not Listed,Not Listed,17,1970.0,2023.0,False,False
+Acmena smithii,Flora,Lilly Pilly,Not Listed,Not Listed,16,1970.0,2016.0,False,False
+Pandorea pandorana,Flora,Wonga Wonga Vine,Not Listed,Not Listed,16,1970.0,2016.0,False,False
+Pennantia cunninghamii,Flora,Brown Beech,Not Listed,Not Listed,16,1919.0,2016.0,False,False
+Asplenium flabellifolium,Flora,Necklace Fern,Not Listed,Not Listed,15,1970.0,2016.0,False,False
+Celastrus australis,Flora,Staff Climber,Not Listed,Not Listed,15,1970.0,2016.0,False,False
+Litoria quiritatus,Amphibia,Screaming Tree Frog,Not Listed,Not Listed,15,2017.0,2023.0,False,False
+Parsonsia brownii,Flora,Mountain Silkpod,Not Listed,Not Listed,15,1974.0,2019.0,False,False
+Aphanopetalum resinosum,Flora,Gum Vine,Not Listed,Not Listed,14,1970.0,2007.0,False,False
+Platycercus sp.,Aves,Unidentified Rosella,Not Listed,Not Listed,14,2013.0,2024.0,False,False
+Polyosma cunninghamii,Flora,Featherwood,Not Listed,Not Listed,14,1970.0,2010.0,False,False
+Cacatua galerita,Aves,Sulphur-crested Cockatoo,Not Listed,Not Listed,13,2003.0,2025.0,False,False
+Myrsine howittiana,Flora,Brush Muttonwood,Not Listed,Not Listed,13,1970.0,2001.0,False,False
+Platycercus eximius,Aves,Eastern Rosella,Not Listed,Not Listed,13,2013.0,2024.0,False,False
+Tasmannia insipida,Flora,Brush Pepperbush,Not Listed,Not Listed,13,1970.0,2010.0,False,False
+Alectryon subcinereus,Flora,Wild Quince,Not Listed,Not Listed,12,1970.0,2007.0,False,False
+Arthropteris tenella,Flora,,Not Listed,Not Listed,12,1970.0,2007.0,False,False
+Ceratopetalum apetalum,Flora,Coachwood,Not Listed,Not Listed,12,1970.0,2016.0,False,False
+Dicksonia antarctica,Flora,Soft Treefern,Not Listed,Not Listed,12,1970.0,2016.0,False,False
+Pellaea falcata,Flora,Sickle Fern,Not Listed,Not Listed,12,1986.0,2016.0,False,False
+Sambucus australasica,Flora,Native Elderberry,Not Listed,Not Listed,12,1967.0,2010.0,False,False
+Strepera graculina,Aves,Pied Currawong,Not Listed,Not Listed,12,1992.0,2025.0,False,False
+Hibbertia scandens,Flora,Climbing Guinea Flower,Not Listed,Not Listed,11,1970.0,2016.0,False,False
+Ligustrum sinense,Flora,Small-leaved Privet,Not Listed,Not Listed,11,1970.0,2023.0,False,False
+Psophodes olivaceus,Aves,Eastern Whipbird,Not Listed,Not Listed,11,1992.0,2023.0,False,False
+Quintinia sieberi,Flora,Possumwood,Not Listed,Not Listed,11,1970.0,2010.0,False,False
+Urtica incisa,Flora,Stinging Nettle,Not Listed,Not Listed,11,1970.0,2010.0,False,False
+Viola hederacea,Flora,Ivy-leaved Violet,Not Listed,Not Listed,11,1990.0,2010.0,False,False
+Vulpes vulpes,Mammalia,Fox,Not Listed,Not Listed,11,2004.0,2022.0,False,False
+Ilex aquifolium,Flora,English Holly,Not Listed,Not Listed,10,1970.0,2023.0,False,False
+Limnodynastes tasmaniensis,Amphibia,Spotted Grass Frog,Not Listed,Not Listed,10,2019.0,2022.0,False,False
+Microchiroptera suborder,Mammalia,Unidentified Microbat,Not Listed,Not Listed,10,2013.0,2024.0,False,False
+Notelaea venosa,Flora,Veined Mock-olive,Not Listed,Not Listed,10,1970.0,2016.0,False,False
+Sarcopetalum harveyanum,Flora,Pearl Vine,Not Listed,Not Listed,10,1989.0,2016.0,False,False
+Solanum aviculare,Flora,Kangaroo Apple,Not Listed,Not Listed,10,1970.0,2010.0,False,False
+Solanum pungetium,Flora,Eastern Nightshade,Not Listed,Not Listed,10,1990.0,2010.0,False,False
+Bird sp.,Aves,Unidentified Bird,Not Listed,Not Listed,9,2012.0,2025.0,False,False
+Chenonetta jubata,Aves,Australian Wood Duck,Not Listed,Not Listed,9,2016.0,2024.0,False,False
+Hedycarya angustifolia,Flora,Native Mulberry,Not Listed,Not Listed,9,1918.0,2010.0,False,False
+Lastreopsis acuminata,Flora,Shiny Shield Fern,Not Listed,Not Listed,9,1970.0,2016.0,False,False
+Litoria peronii,Amphibia,Peron's Tree Frog,Not Listed,Not Listed,9,2018.0,2022.0,False,False
+Pseudechis porphyriacus,Reptilia,Red-bellied Black Snake,Not Listed,Not Listed,9,2013.0,2021.0,False,False
+Tylophora barbata,Flora,Bearded Tylophora,Not Listed,Not Listed,9,1970.0,2016.0,False,False
+Coprosma quadrifida,Flora,Prickly Currant Bush,Not Listed,Not Listed,8,1990.0,2016.0,False,False
+Cyathea australis,Flora,Rough Treefern,Not Listed,Not Listed,8,1990.0,2016.0,False,False
+Fauna sp.,Unknown,Unidentified Fauna,Not Listed,Not Listed,8,2014.0,2024.0,False,False
+Leucosarcia melanoleuca,Aves,Wonga Pigeon,Not Listed,Not Listed,8,1992.0,2021.0,False,False
+Rubus nebulosus,Flora,Green-leaved Bramble,Not Listed,Not Listed,8,1970.0,2016.0,False,False
+Hydrocotyle acutiloba,Flora,,Not Listed,Not Listed,7,1990.0,2001.0,False,False
+Parsonsia straminea,Flora,Common Silkpod,Not Listed,Not Listed,7,1970.0,2016.0,False,False
+Cacatua sanguinea,Aves,Little Corella,Not Listed,Not Listed,6,2021.0,2025.0,False,False
+Dendrobium pugioniforme,Flora,Dagger Orchid,Not Listed,Not Listed,6,1970.0,2010.0,False,False
+Elaeocarpus holopetalus,Flora,Black Olive Berry,Not Listed,Not Listed,6,1970.0,1990.0,False,False
+Eopsaltria australis,Aves,Eastern Yellow Robin,Not Listed,Not Listed,6,1992.0,2024.0,False,False
+Eucryphia moorei,Flora,Pinkwood,Not Listed,Not Listed,6,1974.0,2010.0,False,False
+Hedera helix,Flora,English Ivy,Not Listed,Not Listed,6,1970.0,2023.0,False,False
+Manorina melanocephala,Aves,Noisy Miner,Not Listed,Not Listed,6,2013.0,2025.0,False,False
+Ninox novaeseelandiae,Aves,Southern Boobook,Not Listed,Not Listed,6,1992.0,2025.0,False,False
+Phytolacca octandra,Flora,Inkweed,Not Listed,Not Listed,6,1970.0,2023.0,False,False
+Rubus rosifolius,Flora,Rose-leaf Bramble,Not Listed,Not Listed,6,1990.0,2016.0,False,False
+Sericornis frontalis,Aves,White-browed Scrubwren,Not Listed,Not Listed,6,1992.0,2010.0,False,False
+Stenocarpus salignus,Flora,Scrub Beefwood,Not Listed,Not Listed,6,1970.0,2016.0,False,False
+Synoum glandulosum subsp. glandulosum,Flora,Scentless Rosewood,Not Listed,Not Listed,6,1970.0,2016.0,False,False
+Asplenium australasicum,Flora,Bird's Nest Fern,Not Listed,Not Listed,5,1990.0,2010.0,False,False
+Blechnum patersonii,Flora,Strap Water Fern,Not Listed,Not Listed,5,1989.0,2016.0,False,False
+Chelodina longicollis,Reptilia,Eastern Snake-necked Turtle,Not Listed,Not Listed,5,1992.0,2022.0,False,False
+Clematis aristata,Flora,Old Man's Beard,Not Listed,Not Listed,5,1990.0,2016.0,False,False
+Grallina cyanoleuca,Aves,Magpie-lark,Not Listed,Not Listed,5,1992.0,2021.0,False,False
+Gynochthodes jasminoides,Flora,Sweet Morinda,Not Listed,Not Listed,5,1970.0,2016.0,False,False
+Meliphaga lewinii,Aves,Lewin's Honeyeater,Not Listed,Not Listed,5,2002.0,2025.0,False,False
+Oryctolagus cuniculus,Mammalia,Rabbit,Not Listed,Not Listed,5,2010.0,2024.0,False,False
+Rubus anglocandicans,Flora,Blackberry,Not Listed,Not Listed,5,1917.0,1990.0,False,False
+Trichoglossus haematodus,Aves,Rainbow Lorikeet,Not Listed,Not Listed,5,2014.0,2024.0,False,False
+Zosterops lateralis,Aves,Silvereye,Not Listed,Not Listed,5,2003.0,2024.0,False,False
+Anas superciliosa,Aves,Pacific Black Duck,Not Listed,Not Listed,4,2003.0,2024.0,False,False
+Carex appressa,Flora,Tall Sedge,Not Listed,Not Listed,4,1990.0,2003.0,False,False
+Cervus sp.,Mammalia,Unidentified Deer,Not Listed,Not Listed,4,1980.0,2004.0,False,False
+Colluricincla harmonica,Aves,Grey Shrike-thrush,Not Listed,Not Listed,4,1992.0,2017.0,False,False
+Cracticus torquatus,Aves,Grey Butcherbird,Not Listed,Not Listed,4,2003.0,2023.0,False,False
+Fieldia australis,Flora,,Not Listed,Not Listed,4,1970.0,1990.0,False,False
+Marsdenia spp.,Flora,,Not Listed,Not Listed,4,2001.0,2010.0,False,False
+Microsorum pustulatum subsp. pustulatum,Flora,,Not Listed,Not Listed,4,1976.0,1982.0,False,False
+Passer domesticus,Aves,House Sparrow,Not Listed,Not Listed,4,1992.0,2025.0,False,False
+Podargus strigoides,Aves,Tawny Frogmouth,Not Listed,Not Listed,4,2016.0,2021.0,False,False
+Prunus laurocerasus,Flora,Cherry Laurel,Not Listed,Not Listed,4,1983.0,2010.0,False,False
+Acanthiza pusilla,Aves,Brown Thornbill,Not Listed,Not Listed,3,1996.0,2004.0,False,False
+Accipiter fasciatus,Aves,Brown Goshawk,Not Listed,Not Listed,3,1989.0,2023.0,False,False
+Acetosella vulgaris,Flora,Sheep Sorrel,Not Listed,Not Listed,3,1987.0,2010.0,False,False
+Aquila audax,Aves,Wedge-tailed Eagle,Not Listed,Not Listed,3,2003.0,2026.0,False,False
+Australina pusilla,Flora,,Not Listed,Not Listed,3,1990.0,2001.0,False,False
+Austrelaps sp.,Reptilia,Copperhead,Not Listed,Not Listed,3,2013.0,2017.0,False,False
+Cestrum elegans,Flora,,Not Listed,Not Listed,3,1989.0,2011.0,False,False
+Columba leucomela,Aves,White-headed Pigeon,Not Listed,Not Listed,3,2013.0,2022.0,False,False
+Corvus coronoides,Aves,Australian Raven,Not Listed,Not Listed,3,2017.0,2025.0,False,False
+Diospyros australis,Flora,Black Plum,Not Listed,Not Listed,3,1986.0,2016.0,False,False
+Egretta novaehollandiae,Aves,White-faced Heron,Not Listed,Not Listed,3,2003.0,2023.0,False,False
+Elatostema reticulatum,Flora,,Not Listed,Not Listed,3,1991.0,2016.0,False,False
+Eucalyptus fastigata,Flora,Brown Barrel,Not Listed,Not Listed,3,1919.0,2001.0,False,False
+Gerygone mouki,Aves,Brown Gerygone,Not Listed,Not Listed,3,1996.0,2023.0,False,False
+Hackelia latifolia,Flora,,Not Listed,Not Listed,3,1984.0,2001.0,False,False
+Hydrocotyle sibthorpioides,Flora,,Not Listed,Not Listed,3,2001.0,2003.0,False,False
+Lonicera japonica,Flora,Japanese Honeysuckle,Not Listed,Not Listed,3,1987.0,1990.0,False,False
+Microsorum pustulatum,Flora,Kangaroo Fern,Not Listed,Not Listed,3,1970.0,1990.0,False,False
+Notamacropus rufogriseus,Mammalia,Red-necked Wallaby,Not Listed,Not Listed,3,2017.0,2023.0,False,False
+Ocyphaps lophotes,Aves,Crested Pigeon,Not Listed,Not Listed,3,2003.0,2024.0,False,False
+Olearia argophylla,Flora,Native Musk,Not Listed,Not Listed,3,1987.0,2001.0,False,False
+Ozothamnus diosmifolius,Flora,White Dogwood,Not Listed,Not Listed,3,1974.0,2010.0,False,False
+Pandorea pandorana subsp. pandorana,Flora,Wonga Wonga Vine,Not Listed,Not Listed,3,1978.0,2007.0,False,False
+Parsonsia spp.,Flora,,Not Listed,Not Listed,3,2001.0,2001.0,False,False
+Pinus radiata,Flora,Radiata Pine,Not Listed,Not Listed,3,2003.0,2016.0,False,False
+Porphyrio porphyrio,Aves,Purple Swamphen,Not Listed,Not Listed,3,2003.0,2023.0,False,False
+Prostanthera hirtula,Flora,,Not Listed,Not Listed,3,1950.0,1978.0,False,False
+Rhipidura albiscapa,Aves,Grey Fantail,Not Listed,Not Listed,3,1992.0,2023.0,False,False
+Rhipidura rufifrons,Aves,Rufous Fantail,Not Listed,Not Listed,3,2002.0,2004.0,False,False
+Schizomeria ovata,Flora,Crabapple,Not Listed,Not Listed,3,1969.0,1973.0,False,False
+Trichosurus sp.,Mammalia,brushtail possum,Not Listed,Not Listed,3,2004.0,2019.0,False,False
+Turdus merula,Aves,Eurasian Blackbird,Not Listed,Not Listed,3,1992.0,2021.0,False,False
+Vespadelus darlingtoni,Mammalia,Large Forest Bat,Not Listed,Not Listed,3,2022.0,2024.0,False,False
+Zanda funerea,Aves,Yellow-tailed Black-Cockatoo,Not Listed,Not Listed,3,1992.0,2023.0,False,False
+Acaena novae-zelandiae,Flora,Bidgee-widgee,Not Listed,Not Listed,2,1982.0,2010.0,False,False
+Acanthiza lineata,Aves,Striated Thornbill,Not Listed,Not Listed,2,1992.0,2025.0,False,False
+Acanthorhynchus tenuirostris,Aves,Eastern Spinebill,Not Listed,Not Listed,2,2002.0,2022.0,False,False
+Accipiter novaehollandiae,Aves,Grey Goshawk,Not Listed,Not Listed,2,2016.0,2018.0,False,False
+Anthochaera carunculata,Aves,Red Wattlebird,Not Listed,Not Listed,2,2023.0,2024.0,False,False
+Anthoxanthum odoratum,Flora,Sweet Vernal Grass,Not Listed,Not Listed,2,2003.0,2010.0,False,False
+Blechnum neohollandicum,Flora,,Not Listed,Not Listed,2,1989.0,2001.0,False,False
+Caligavis chrysops,Aves,Yellow-faced Honeyeater,Not Listed,Not Listed,2,1992.0,2025.0,False,False
+Dactylis glomerata,Flora,Cocksfoot,Not Listed,Not Listed,2,2003.0,2010.0,False,False
+Dichondra repens,Flora,Kidney Weed,Not Listed,Not Listed,2,2001.0,2010.0,False,False
+Diplazium australe,Flora,Austral Lady Fern,Not Listed,Not Listed,2,2001.0,2016.0,False,False
+Elaeocarpus kirtonii,Flora,Silver Quandong,Not Listed,Not Listed,2,1990.0,1994.0,False,False
+Elanus axillaris,Aves,Black-shouldered Kite,Not Listed,Not Listed,2,1998.0,2024.0,False,False
+Entolasia marginata,Flora,Bordered Panic,Not Listed,Not Listed,2,1992.0,2001.0,False,False
+Epacris calvertiana var. versicolor,Flora,,Not Listed,Not Listed,2,1918.0,1948.0,False,False
+Geranium homeanum,Flora,,Not Listed,Not Listed,2,1990.0,2010.0,False,False
+Helicia glabriflora,Flora,Smooth Helicia,Not Listed,Not Listed,2,1969.0,1971.0,False,False
+Hypochaeris radicata,Flora,Catsear,Not Listed,Not Listed,2,2003.0,2010.0,False,False
+Lepyrodia cryptica,Flora,,Not Listed,Not Listed,2,1948.0,1964.0,False,False
+Ligustrum lucidum,Flora,Large-leaved Privet,Not Listed,Not Listed,2,1970.0,1978.0,False,False
+Malurus cyaneus,Aves,Superb Fairy-wren,Not Listed,Not Listed,2,1992.0,1993.0,False,False
+Microlaena stipoides,Flora,Weeping Grass,Not Listed,Not Listed,2,2001.0,2003.0,False,False
+Myrsine variabilis,Flora,,Not Listed,Not Listed,2,1970.0,2016.0,False,False
+Neochmia temporalis,Aves,Red-browed Finch,Not Listed,Not Listed,2,1992.0,2014.0,False,False
+Nyctophilus geoffroyi,Mammalia,Lesser Long-eared Bat,Not Listed,Not Listed,2,2015.0,2019.0,False,False
+Ornithorhynchus anatinus,Mammalia,Platypus,Not Listed,Not Listed,2,2025.0,2025.0,False,False
+Pachycephala pectoralis,Aves,Golden Whistler,Not Listed,Not Listed,2,1996.0,2003.0,False,False
+Pellaea nana,Flora,Dwarf Sickle Fern,Not Listed,Not Listed,2,2001.0,2007.0,False,False
+Phylidonyris novaehollandiae,Aves,New Holland Honeyeater,Not Listed,Not Listed,2,1992.0,1996.0,False,False
+Poa annua,Flora,Winter Grass,Not Listed,Not Listed,2,1989.0,1998.0,False,False
+Possum sp.,Mammalia,unidentified possum,Not Listed,Not Listed,2,2019.0,2021.0,False,False
+Potentilla indica,Flora,Indian Strawberry,Not Listed,Not Listed,2,1970.0,1978.0,False,False
+Pseudocolus fusiformis,Flora,,Not Listed,Not Listed,2,2010.0,2010.0,False,False
+Pseudohydnum gelatinosum,Flora,,Not Listed,Not Listed,2,2010.0,2010.0,False,False
+Pteridium esculentum,Flora,Bracken,Not Listed,Not Listed,2,2003.0,2010.0,False,False
+Ranunculus repens,Flora,Creeping Buttercup,Not Listed,Not Listed,2,2003.0,2010.0,False,False
+Raphanus raphanistrum,Flora,Wild Radish,Not Listed,Not Listed,2,2003.0,2003.0,False,False
+Rubus fruticosus sp. agg.,Flora,Blackberry complex,Not Listed,Not Listed,2,2003.0,2010.0,False,False
+Sigesbeckia orientalis subsp. orientalis,Flora,Indian Weed,Not Listed,Not Listed,2,1970.0,1978.0,False,False
+Stellaria flaccida,Flora,,Not Listed,Not Listed,2,1990.0,2001.0,False,False
+Tachybaptus novaehollandiae,Aves,Australasian Grebe,Not Listed,Not Listed,2,2021.0,2024.0,False,False
+Zoothera lunulata,Aves,Bassian Thrush,Not Listed,Not Listed,2,2002.0,2003.0,False,False
+Acacia binervata,Flora,Two-veined Hickory,Not Listed,Not Listed,1,1978.0,1978.0,False,False
+Acacia longifolia,Flora,,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Acacia longifolia subsp. longifolia,Flora,Sydney Golden Wattle,Not Listed,Not Listed,1,1970.0,1970.0,False,False
+Acacia suaveolens,Flora,Sweet Wattle,Not Listed,Not Listed,1,1966.0,1966.0,False,False
+Acacia terminalis,Flora,Sunshine Wattle,Not Listed,Not Listed,1,1948.0,1948.0,False,False
+Acaena spp.,Flora,Sheep's Burr,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Acanthiza pusilla pusilla,Aves,,Not Listed,Not Listed,1,1998.0,1998.0,False,False
+Acer palmatum,Flora,Japanese Maple,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Acridotheres tristis,Aves,Common Myna,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Agapanthus spp.,Flora,,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Agaricus spp.,Fungi,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Amyema spp.,Flora,Mistletoe,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Anepischetosia maccoyi,Reptilia,Highlands Forest-skink,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Antechinus stuartii,Mammalia,Brown Antechinus,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Anthochaera chrysoptera,Aves,Little Wattlebird,Not Listed,Not Listed,1,2025.0,2025.0,False,False
+Antrodiella zonata,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Arrhenatherum elatius var. bulbosum,Flora,Bulbous Oatgrass,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Arthropteris beckleri,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Asplenium attenuatum,Flora,Simple Spleenwort,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Auricularia cornea,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Austrelaps superbus,Reptilia,Lowland Copperhead,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Austrorhytida capillacea,Gastropoda,,Not Listed,Not Listed,1,2024.0,2024.0,False,False
+Austrostipa pubescens,Flora,,Not Listed,Not Listed,1,1943.0,1943.0,False,False
+Blechnum gregsonii,Flora,,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Blechnum nudum,Flora,Fishbone Water Fern,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Blechnum spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Brassica rapa subsp. campestris,Flora,Turnip,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Burnettia cuneata,Flora,Lizard Orchid,Not Listed,Not Listed,1,1956.0,1956.0,False,False
+Cacatua sp.,Aves,,Not Listed,Not Listed,1,2022.0,2022.0,False,False
+Cacatua tenuirostris,Aves,Long-billed Corella,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Calocera spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Canis familiaris,Mammalia,Dog,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Capsella bursa-pastoris,Flora,Shepherd's Purse,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Carex leporina,Flora,,Not Listed,Not Listed,1,1996.0,1996.0,False,False
+Cassinia longifolia,Flora,,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Cassinia trinerva,Flora,,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Cassytha pubescens,Flora,Downy Dodder-laurel,Not Listed,Not Listed,1,1971.0,1971.0,False,False
+Celastrus subspicata,Flora,Large-leaved Staff Vine,Not Listed,Not Listed,1,2007.0,2007.0,False,False
+Cenchrus clandestinus,Flora,Kikuyu Grass,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Centella asiatica,Flora,Indian Pennywort,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Cirsium vulgare,Flora,Spear Thistle,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Cissus hypoglauca,Flora,Giant Water Vine,Not Listed,Not Listed,1,2007.0,2007.0,False,False
+Clitocybe spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Collybia spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Convolvulus erubescens,Flora,Pink Bindweed,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Conyza bonariensis,Flora,Flaxleaf Fleabane,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Cordyceps cranstounii,Sordariomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Cordyceps gunnii,Sordariomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Crepidotus spp.,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Crocosmia x crocosmiiflora,Flora,Montbretia,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Cryptostylis subulata,Flora,Large Tongue Orchid,Not Listed,Not Listed,1,1943.0,1943.0,False,False
+Cyathea leichhardtiana,Flora,Prickly Treefern,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Cycnogeton procerum,Flora,Water Ribbons,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Cynodon dactylon,Flora,Common Couch,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Cytisus scoparius subsp. scoparius,Flora,English Broom,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Delias nigrina,Insecta,common jezabel,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Delias nysa,Insecta,Yellow-spotted Jezebel,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Dendrelaphis punctulatus,Reptilia,Common Tree Snake,Not Listed,Not Listed,1,2020.0,2020.0,False,False
+Dennstaedtia davallioides,Flora,Lacy Ground Fern,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Dictyopanus pusillus,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Dodonaea viscosa,Flora,Sticky Hop-bush,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Dracophyllum secundum,Flora,,Not Listed,Not Listed,1,1909.0,1909.0,False,False
+Ehrharta erecta,Flora,Panic Veldtgrass,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Eleocharis sphacelata,Flora,Tall Spike Rush,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Empodisma minus,Flora,,Not Listed,Not Listed,1,1948.0,1948.0,False,False
+Entoloma spp.,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Eolophus roseicapilla x Lophochroa leadbeateri,Aves,Galah/Pink Cockatoo,Not Listed,Not Listed,1,2025.0,2025.0,False,False
+Eopsaltria australis australis,Aves,,Not Listed,Not Listed,1,2004.0,2004.0,False,False
+Equus caballus,Mammalia,Horse,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Eragrostis trachycarpa,Flora,,Not Listed,Not Listed,1,1987.0,1987.0,False,False
+Erigeron karvinskianus,Flora,Bony-tip Fleabane,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Eucalyptus ovata,Flora,Swamp Gum,Not Listed,Not Listed,1,1917.0,1917.0,False,False
+Eucalyptus piperita,Flora,Sydney Peppermint,Not Listed,Not Listed,1,1967.0,1967.0,False,False
+Eucalyptus sieberi,Flora,Silvertop Ash,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Eucalyptus spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Euchiton japonicus,Flora,,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Eudynamys orientalis,Aves,Eastern Koel,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Eupomatia laurina,Flora,Bolwarra,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Falco berigora,Aves,Brown Falcon,Not Listed,Not Listed,1,2002.0,2002.0,False,False
+Falco cenchroides cenchroides,Aves,Nankeen Kestrel,Not Listed,Not Listed,1,1991.0,1991.0,False,False
+Falco peregrinus,Aves,Peregrine Falcon,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Galium leiocarpum,Flora,,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Gastrodia sesamoides,Flora,Cinnamon Bells,Not Listed,Not Listed,1,2004.0,2004.0,False,False
+Geastrum spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Geranium potentilloides,Flora,,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Geranium potentilloides var. potentilloides,Flora,,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Geranium solanderi,Flora,Native Geranium,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Gerygone mouki mouki,Aves,,Not Listed,Not Listed,1,2004.0,2004.0,False,False
+Graphium macleayanum,Insecta,Macleay's swallowtail,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Gymnorhina tibicen tibicen,Aves,,Not Listed,Not Listed,1,1993.0,1993.0,False,False
+Hakea salicifolia subsp. salicifolia,Flora,,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Hakea teretifolia,Flora,Needlebush,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Hebe spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Hirundo neoxena,Aves,Welcome Swallow,Not Listed,Not Listed,1,2025.0,2025.0,False,False
+Histiopteris incisa,Flora,Bat's Wing Fern,Not Listed,Not Listed,1,1985.0,1985.0,False,False
+Hohenbuehelia spp.,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Hydrocotyle algida,Flora,Pennywort,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Hydrocotyle laxiflora,Flora,Stinking Pennywort,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Hymenochaete spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Hymenophyllum spp.,Flora,,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Hypholoma spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Hypotaenidia philippensis,Aves,Buff-banded Rail,Not Listed,Not Listed,1,2021.0,2021.0,False,False
+Intellagama lesueurii,Reptilia,Eastern Water Dragon,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Isolepis inundata,Flora,Club-rush,Not Listed,Not Listed,1,1996.0,1996.0,False,False
+Jasminum polyanthum,Flora,White Jasmine,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Juncus continuus,Flora,,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Juncus procerus,Flora,,Not Listed,Not Listed,1,1996.0,1996.0,False,False
+Juncus sarophorus,Flora,,Not Listed,Not Listed,1,1996.0,1996.0,False,False
+Juncus subsecundus,Flora,Finger Rush,Not Listed,Not Listed,1,1976.0,1976.0,False,False
+Juncus usitatus,Flora,,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Junonia villida,Insecta,Meadow Argus,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Lactarius eucalypti,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Lampropholis guichenoti,Reptilia,Pale-flecked Garden Sunskink,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Larix spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Lastreopsis decomposita,Flora,Trim Shield Fern,Not Listed,Not Listed,1,2007.0,2007.0,False,False
+Lepanus illawarrensis,Insecta,,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Lepiota spp.,Fungi,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Leptospermum grandifolium,Flora,Woolly Teatree,Not Listed,Not Listed,1,1938.0,1938.0,False,False
+Leucanthemum vulgare,Flora,Oxeye Daisy,Not Listed,Not Listed,1,1968.0,1968.0,False,False
+Leucopogon lanceolatus subsp. group A,Flora,,Not Listed,Not Listed,1,1909.0,1909.0,False,False
+Lindsaea trichomanoides,Flora,Oval Wedge-fern,Not Listed,Not Listed,1,2020.0,2020.0,False,False
+Litoria ewingii,Amphibia,Brown Tree Frog,Not Listed,Not Listed,1,2021.0,2021.0,False,False
+Litoria nudidigita,Amphibia,Leaf Green River Tree Frog,Not Listed,Not Listed,1,2017.0,2017.0,False,False
+Macropygia phasianella,Aves,Brown Cuckoo-Dove,Not Listed,Not Listed,1,2025.0,2025.0,False,False
+Marasmius crinisequi,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Marasmius spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Marsdenia viridiflora subsp. viridiflora,Flora,Native Pear,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Menura novaehollandiae,Aves,Superb Lyrebird,Not Listed,Not Listed,1,2017.0,2017.0,False,False
+Microlaena stipoides var. stipoides,Flora,Weeping Grass,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Microtis parviflora,Flora,Slender Onion Orchid,Not Listed,Not Listed,1,1987.0,1987.0,False,False
+Monarcha melanopsis,Aves,Black-faced Monarch,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Monotoca ledifolia,Flora,,Not Listed,Not Listed,1,1979.0,1979.0,False,False
+Morelia spilota spilota,Reptilia,Diamond Python,Not Listed,Not Listed,1,2018.0,2018.0,False,False
+Morganella purpurascens,Fungi,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Morganella spp.,Fungi,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Muellerina eucalyptoides,Flora,,Not Listed,Not Listed,1,1991.0,1991.0,False,False
+Mus musculus,Mammalia,House Mouse,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Mycena spp.,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Mycena viscidocruenta,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Neosericornis citreogularis,Aves,Yellow-throated Scrubwren,Not Listed,Not Listed,1,1998.0,1998.0,False,False
+Notechis scutatus,Reptilia,Tiger Snake,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Nycticorax caledonicus,Aves,Nankeen Night Heron,Not Listed,Not Listed,1,2022.0,2022.0,False,False
+Nyctophilus gouldi,Mammalia,Gould's Long-eared Bat,Not Listed,Not Listed,1,2021.0,2021.0,False,False
+Onthophagus hoplocerus,Insecta,,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Onthophagus longipes,Insecta,,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Onthophagus pugnax,Insecta,,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Onthophagus sydneyensis,Insecta,,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Oplismenus imbecillis,Flora,,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Osphranter robustus,Mammalia,Common Wallaroo,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Oxalis spp.,Flora,,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Pandorea jasminoides,Flora,Bower Vine,Not Listed,Not Listed,1,2008.0,2008.0,False,False
+Passiflora herbertiana,Flora,,Not Listed,Not Listed,1,1981.0,1981.0,False,False
+Paulownia tomentosa,Flora,Princess tree,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Pelecanus conspicillatus,Aves,Australian Pelican,Not Listed,Not Listed,1,2012.0,2012.0,False,False
+Persicaria hydropiper,Flora,Water Pepper,Not Listed,Not Listed,1,1968.0,1968.0,False,False
+Petaurus breviceps,Mammalia,Sugar Glider,Not Listed,Not Listed,1,2019.0,2019.0,False,False
+Petroica rosea,Aves,Rose Robin,Not Listed,Not Listed,1,2025.0,2025.0,False,False
+Phaps chalcoptera,Aves,Common Bronzewing,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Phellinus spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Pholiota spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Pieris rapae,Insecta,Cabbage White Butterfly,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Plantago debilis,Flora,Shade Plantain,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Plantago lanceolata,Flora,Lamb's Tongues,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Plinthanthesis urvillei,Flora,,Not Listed,Not Listed,1,1966.0,1966.0,False,False
+Pluteus spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Poa labillardierei var. labillardierei,Flora,Tussock,Not Listed,Not Listed,1,1968.0,1968.0,False,False
+Poaceae indeterminate,Flora,"Grasses, reeds and bamboos",Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Podolobium ilicifolium,Flora,Prickly Shaggy Pea,Not Listed,Not Listed,1,1995.0,1995.0,False,False
+Polygonum arenastrum,Flora,Wireweed,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Polystichum proliferum,Flora,Mother Shield Fern,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Potamogeton crispus,Flora,Curly Pondweed,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Prasophyllum appendiculatum,Flora,,Not Listed,Not Listed,1,1995.0,1995.0,False,False
+Prostanthera lasianthos,Flora,Victorian Christmas Bush,Not Listed,Not Listed,1,1968.0,1968.0,False,False
+Prunella vulgaris,Flora,Self-heal,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Prunus lusitanica,Flora,Portugal Laurel,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Psathyrella spp.,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Pseuderanthemum variabile,Flora,Pastel Flower,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Psilocybe spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Pteris umbrosa,Flora,Jungle Brake,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Pteropus sp.,Mammalia,Flying-fox,Not Listed,Not Listed,1,2020.0,2020.0,False,False
+Pultenaea hispidula,Flora,,Not Listed,Not Listed,1,1948.0,1948.0,False,False
+Pycnoporus sanguineus,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Quercus robur,Flora,English Oak,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Ramaria spp.,Agaricomycetes,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Ranunculus plebeius,Flora,Forest Buttercup,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Rattus lutreolus,Mammalia,Swamp Rat,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Rattus rattus,Mammalia,Black Rat,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Rattus sp.,Mammalia,rat,Not Listed,Not Listed,1,2014.0,2014.0,False,False
+Rhipidura leucophrys,Aves,Willie Wagtail,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Rhododendron spp.,Flora,"Rhododendron, Azalea",Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Rubus leightonii,Flora,Blackberry,Not Listed,Not Listed,1,1998.0,1998.0,False,False
+Rubus moorei,Flora,Silky Bramble,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Rubus ulmifolius,Flora,Blackberry,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Rumex spp.,Flora,Dock,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Sarcochilus spp.,Flora,,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Scleroderma spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Scrophularia nodosa,Flora,,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Selaginella uliginosa,Flora,Swamp Selaginella,Not Listed,Not Listed,1,1948.0,1948.0,False,False
+Senecio linearifolius,Flora,Fireweed Groundsel,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Senecio madagascariensis,Flora,Fireweed,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Sericornis magnirostra,Aves,Large-billed Scrubwren,Not Listed,Not Listed,1,1998.0,1998.0,False,False
+Smilax glyciphylla,Flora,Sweet Sarsparilla,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Solanum crispum,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Solanum nigrum,Flora,Black-berry Nightshade,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Solanum prinophyllum,Flora,Forest Nightshade,Not Listed,Not Listed,1,2001.0,2001.0,False,False
+Spilopelia chinensis,Aves,Spotted Turtle-Dove,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Stemonitis splendens,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Stereum sanguinolentum,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Stereum spp.,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Strepera versicolor,Aves,Grey Currawong,Not Listed,Not Listed,1,2025.0,2025.0,False,False
+Stropharia aurantiaca,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Sturnus vulgaris,Aves,Common Starling,Not Listed,Not Listed,1,1992.0,1992.0,False,False
+Symplocos thwaitesii,Flora,Buff Hazelwood,Not Listed,Not Listed,1,1994.0,1994.0,False,False
+Tanacetum vulgare,Flora,Tansy,Not Listed,Not Listed,1,2017.0,2017.0,False,False
+Taraxacum officinale,Flora,Dandelion,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Tetratheca neglecta,Flora,,Not Listed,Not Listed,1,1991.0,1991.0,False,False
+Threskiornis moluccus,Aves,Australian White Ibis,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Toona ciliata,Flora,Red Cedar,Not Listed,Not Listed,1,2016.0,2016.0,False,False
+Tradescantia fluminensis,Flora,Wandering Jew,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Trametes hirsuta,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Trametes versicolor,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Tremella fuciformis,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Trichaptum biforme,Flora,,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Trichosurus cunninghami,Mammalia,Mountain Brushtail Possum,Not Listed,Not Listed,1,2019.0,2019.0,False,False
+Trifolium repens,Flora,White Clover,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Trophis scandens,Flora,Burny Vine,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Typha orientalis,Flora,Broad-leaved Cumbungi,Not Listed,Not Listed,1,2003.0,2003.0,False,False
+Uperoleia laevigata,Amphibia,Smooth Toadlet,Not Listed,Not Listed,1,2019.0,2019.0,False,False
+Vanellus miles,Aves,Masked Lapwing,Not Listed,Not Listed,1,2019.0,2019.0,False,False
+Varanus varius,Reptilia,Lace Monitor,Not Listed,Not Listed,1,2023.0,2023.0,False,False
+Veronica plebeia,Flora,Trailing Speedwell,Not Listed,Not Listed,1,1990.0,1990.0,False,False
+Vespadelus vulturnus,Mammalia,Little Forest Bat,Not Listed,Not Listed,1,2019.0,2019.0,False,False
+Westringia longifolia,Flora,Long-leaved Westringia,Not Listed,Not Listed,1,2010.0,2010.0,False,False
+Xanthorrhoea concava,Flora,,Not Listed,Not Listed,1,1939.0,1939.0,False,False
+Xerochrysum bracteatum,Flora,Golden Everlasting,Not Listed,Not Listed,1,1990.0,1990.0,False,False

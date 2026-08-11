@@ -1,0 +1,177 @@
+# The Ripple Effect — Robertson Nature Reserve Regional Conservation Impact
+# Edit paths/names here; scripts should not hard-code absolute paths.
+
+project:
+  name: "Robertson Rainforest"
+  subtitle: "A small reserve beside town — and a wider landscape we can still care for together"
+  client_context: "Community conservation story for Robertson, NSW"
+  question: >
+    What ecological role does Robertson Nature Reserve play today, and where
+    could other small areas of land around Robertson strengthen that role?
+  tagline: "Keep what remains. Understand the gaps. Grow care around Robertson."
+  audience: "People of Robertson — shareable public story (not a GIS product page)"
+  former_working_title: "Bring Back the Brush (The Ripple Effect)"
+  design_standard: "docs/CARTOGRAPHIC_ART_STANDARD.md"
+  living_atlas: true
+
+study_area:
+  primary_reserve_name: "Robertson Nature Reserve"
+  # Midpoint of the briefed 10–15 km landscape context
+  buffer_km: 12.5
+  context_halo_km: 1.0
+  # Name substrings (case-insensitive) for optional wider context parks
+  context_reserve_patterns:
+    - "Budderoo"
+    - "Barren Grounds"
+    - "Macquarie Pass"
+    - "Illawarra Escarpment"
+    - "Wingecarribee"
+    - "Robertson"
+  # Analysis CRS (metres). Source layers may arrive in other CRS and be reprojected.
+  crs_analysis: "EPSG:7856"   # GDA2020 / MGA Zone 56
+  crs_geographic: "EPSG:4326" # WGS84 for web / ALA exchange
+  notes: >
+    Robertson sits near 150.6°E — MGA Zone 56. Do not compute distance/area in EPSG:4326.
+
+downloads:
+  # Official REST endpoints (prefer over scraping HTML portals)
+  npws_estate_query: "https://mapprod.environment.nsw.gov.au/arcgis/rest/services/EDP/Estate/MapServer/0/query"
+  lga_query: "https://maps.six.nsw.gov.au/arcgis/rest/services/public/NSW_Administrative_Boundaries/MapServer/1/query"
+  roads_query: "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Transport_Theme/FeatureServer/5/query"
+  # SVTM Quickview feature layers (source CRS EPSG:3308)
+  svtm_extant_pct_query: "https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/VIS/SVTM_NSW_Extant_PCT/MapServer/3/query"
+  svtm_preclear_pct_query: "https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/VIS/SVTM_NSW_1750_PCT/MapServer/3/query"
+  ceec_labels_query: "https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/VIS/CEEC_NSW/MapServer/3/query"
+  svtm_native_crs: "EPSG:3308"
+  # BioNet Species Sightings (public OData — no token = public/denatured view)
+  bionet_odata_base: "https://data.bionet.nsw.gov.au/biosvcapp/odata"
+  bionet_entity: "SpeciesSightings_CoreData"
+  # ALA Biocache (optional supplement)
+  ala_occurrences_search: "https://biocache-ws.ala.org.au/ws/occurrences/search"
+  # Optional — BioNet is the NSW primary source; set true to pull ALA (~envelope).
+  ala_enabled: false
+  # Phase 5 landscape / water
+  hydroline_query: "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Water_Theme/FeatureServer/5/query"
+  hydroarea_query: "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Water_Theme/FeatureServer/6/query"
+  named_watercourse_query: "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Water_Theme/FeatureServer/2/query"
+  soil_landscapes_query: "https://mapprod1.environment.nsw.gov.au/arcgis/rest/services/Soil/SoilLandscapes_CentralAndEasternNSW/MapServer/0/query"
+  # Permian–Triassic Basins rock units (includes latite/basalt around Robertson)
+  geology_rock_units_query: "https://mapprod2.environment.nsw.gov.au/arcgis/rest/services/Geology/NSW_SeamlessGeology_PTB/MapServer/6/query"
+  bushfire_prone_query: "https://portal.spatial.nsw.gov.au/server/rest/services/Hosted/NSW_BushFire_Prone_Land/FeatureServer/0/query"
+  crown_land_query: "https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/ePlanning/Planning_Portal_Crown_Land/MapServer/258/query"
+  # Copernicus GLO-30 COG (AWS Open Data) — GA WCS currently 403 from this environment
+  dem_copernicus_template: "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_{lat}_{lon}_DEM/Copernicus_DSM_COG_10_{lat}_{lon}_DEM.tif"
+  dea_enabled: false
+  # NSW Landuse (SEED / ArcGIS REST — envelope query when available)
+  nsw_landuse_query: ""
+  landuse_enabled: false
+  # Living feeds (Twin Lakes / weekly refresh)
+  inaturalist_api: "https://api.inaturalist.org/v1/observations"
+  inaturalist_enabled: true
+  rfs_major_incidents: "https://www.rfs.nsw.gov.au/feeds/allMajorIncidents.json"
+  planetary_computer_stac: "https://planetarycomputer.microsoft.com/api/stac/v1/search"
+  planetary_computer_sign: "https://planetarycomputer.microsoft.com/api/sas/v1/sign"
+
+vegetation:
+  # Formation / class filters for remnant story layers (case-insensitive contains).
+  # native_vegetation excludes PCT 0 / veg_form "Not classified".
+  rainforest_veg_forms:
+    - "Rainforests"
+  rainforest_veg_class_contains:
+    - "Rainforest"
+  wet_sclerophyll_veg_forms:
+    - "Wet Sclerophyll Forests"
+  wet_sclerophyll_veg_class_contains:
+    - "Wet Sclerophyll"
+
+species:
+  bionet_page_size: 1000
+  ala_page_size: 500
+  # Drop / flag records with worse location quality than this (metres)
+  max_coordinate_uncertainty_m: 25000
+  # Soft floor for year summaries (older retained but flagged)
+  min_year_keep: 1950
+  threatened_state_statuses:
+    - "Critically Endangered"
+    - "Endangered"
+    - "Vulnerable"
+    - "Extinct"
+    - "Extinct in the Wild"
+  # Point layer for dashboard maps excludes these (grid aggregation only)
+  sensitive_classes_point_exclude:
+    - "Category 1"
+    - "Category 2"
+    - "Category 3"
+
+grid:
+  cell_size_m: 250
+  alternate_cell_size_m: 500
+  justification: >
+    250 m balances local remnant rainforest patches with ArcGIS-friendly
+    polygon grids; 500 m retained as coarser sensitivity check.
+
+# Phase 4 — habitat network prep (rules, not a suitability score)
+connectivity:
+  # Edge-gap merge for core/rainforest patches (union-find + dissolve).
+  # All-native habitat_patches use native_gap_close_m (0 = keep SVTM units:
+  # full native cover is nearly continuous and a single dissolve is not useful).
+  gap_close_m: 15
+  native_gap_close_m: 0
+  min_patch_area_ha: 0.5
+  nn_search_cap_m: 10000
+  isolation_radius_m: 1000
+  # Core habitat for corridor focus = rainforest + wet sclerophyll formations
+  core_veg_form_contains:
+    - "Rainforest"
+    - "Wet Sclerophyll"
+  # NSW Transport functionhierarchy → barrier class / ordinal cost hint for ArcGIS
+  # (higher cost_hint = stronger barrier candidate; not a calibrated resistance model)
+  road_barrier_map:
+    1: {barrier_class: "high", cost_hint: 50}
+    2: {barrier_class: "high", cost_hint: 40}
+    3: {barrier_class: "medium", cost_hint: 25}
+    4: {barrier_class: "medium", cost_hint: 15}
+    5: {barrier_class: "low", cost_hint: 8}
+  road_barrier_default: {barrier_class: "low", cost_hint: 5}
+
+landscape:
+  riparian_buffers_m: [50, 100]
+  # Association / potential function labels only — not reserve causation
+  interpretation: >
+    Landscape context layers describe association and potential function
+    (water, soils, geology, terrain, fire). Do not imply the reserve causes
+    regional climate or landscape change.
+
+# Phase 6 — unweighted opportunity components (NO combined index yet)
+opportunity:
+  near_protected_m: 500
+  near_core_m: 250
+  near_reserve_m: 1000
+  isolated_nn_m: 200          # core patches with nn_distance >= this
+  isolated_influence_m: 500   # cells within this of an isolated patch
+  plantable_slope_deg: 15
+  interpretation: >
+    Each component is mapped independently for later index design.
+    Do not treat any field as a weighted Restoration Opportunity Index.
+
+outputs:
+  master_gpkg: "robertson_conservation.gpkg"
+  phase1_interim_gpkg: "phase1_foundation.gpkg"
+  phase2_interim_gpkg: "phase2_remnant.gpkg"
+  phase3_interim_gpkg: "phase3_refuge.gpkg"
+  phase4_interim_gpkg: "phase4_network.gpkg"
+  phase5_interim_gpkg: "phase5_ripple.gpkg"
+  phase6_interim_gpkg: "phase6_opportunity.gpkg"
+
+# Twin Lakes living story package (refreshable feeds → StoryMap)
+living_feeds:
+  season_months: 24
+  greenness_cloud_max: 25
+  greenness_lookback_days: 420
+  fire_buffer_km: 12.5
+  package_dir: "outputs/twin_lakes"
+  package_json: "story_package.json"
+  living_gpkg: "living_layers.gpkg"
+
+logging:
+  level: "INFO"

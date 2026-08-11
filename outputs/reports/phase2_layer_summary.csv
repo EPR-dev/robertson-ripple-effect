@@ -1,0 +1,8 @@
+layer,features,area_ha,crs
+study_area,1,50167.62,EPSG:7856
+robertson_nature_reserve,1,5.32,EPSG:7856
+native_vegetation,11490,31759.16,EPSG:7856
+rainforest_extant,2464,5054.83,EPSG:7856
+wet_sclerophyll_extant,5671,11697.63,EPSG:7856
+rainforest_preclear_modelled,818,9244.1,EPSG:7856
+cleared_or_non_native,1,18408.46,EPSG:7856

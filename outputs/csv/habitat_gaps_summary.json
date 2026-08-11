@@ -1,0 +1,20 @@
+{
+  "generated_at_utc": "2026-08-11T06:46:30Z",
+  "n_opportunities": 961,
+  "by_type": {
+    "SHORT_50M": 293,
+    "SHORT_MED": 262,
+    "CREEK_GAP": 120,
+    "STEPPING_STONE": 100,
+    "ROAD_GAP": 80,
+    "REMNANT_EXPANSION": 58,
+    "NEAR_PAIR": 48
+  },
+  "label": "potential habitat connections / modelled connectivity pathways",
+  "arcgis_next": [
+    "Build cost surface from roads_barriers.cost_hint",
+    "Least-cost corridors between core_habitat_patches",
+    "Scenario A without reserve",
+    "Scenario B connectivity gain per hectare"
+  ]
+}

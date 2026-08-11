@@ -1,0 +1,42 @@
+layer,pct_id,pct_name,veg_class,veg_form,area_ha,polygon_count
+rainforest_extant,3036,South Coast Warm Temperate-Subtropical Rainforest,Subtropical Rainforests,Rainforests,1582.861992379952,355
+rainforest_extant,3047,Sydney Montane Basalt Rainforest,Southern Warm Temperate Rainforests,Rainforests,1572.4170011235433,1476
+rainforest_extant,3028,Illawarra Escarpment Warm Temperate Rainforest,Northern Warm Temperate Rainforests,Rainforests,1129.4337828324362,174
+rainforest_extant,3077,Illawarra Complex Dry Rainforest,Dry Rainforests,Rainforests,323.1444232552786,166
+rainforest_extant,3013,Illawarra Lowland Subtropical Rainforest,Subtropical Rainforests,Rainforests,244.1950727759047,151
+rainforest_extant,3056,Central Eastern Ranges Riparian Dry Rainforest,Dry Rainforests,Rainforests,189.31336711972827,127
+rainforest_extant,3106,South Coast Grey Myrtle Dry Rainforest,Dry Rainforests,Rainforests,4.874758147161782,2
+rainforest_extant,4106,Illawarra Escarpment Cool Temperate Rainforest,Cool Temperate Rainforests,Rainforests,3.025042075252497,6
+rainforest_extant,3134,Illawarra Seacliffs Littoral Rainforest,Littoral Rainforests,Rainforests,2.1310825760879792,2
+rainforest_extant,3037,Sydney Basin Warm Temperate Rainforest,Northern Warm Temperate Rainforests,Rainforests,1.9108973391465605,3
+rainforest_extant,3041,Sydney Sandstone Coachwood-Grey Myrtle Rainforest,Northern Warm Temperate Rainforests,Rainforests,1.4926043969489804,1
+rainforest_extant,3045,South Coast Temperate Gully Rainforest,Southern Warm Temperate Rainforests,Rainforests,0.025043747563463874,1
+wet_sclerophyll_extant,3223,Southern Highlands Shale-Basalt Wet Forest,Southern Escarpment Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),3697.63362853419,2584
+wet_sclerophyll_extant,3213,Illawarra Southern Escarpment Wet Forest,Southern Escarpment Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),3178.6095749718256,611
+wet_sclerophyll_extant,3153,Illawarra Escarpment Bangalay x Blue Gum Wet Forest,North Coast Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),1352.3541612346746,315
+wet_sclerophyll_extant,3191,South Coast Ranges Moist Gully Forest,South Coast Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),934.5151001474715,479
+wet_sclerophyll_extant,3154,Illawarra Blackbutt Moist Forest,North Coast Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),590.7439689431029,105
+wet_sclerophyll_extant,3222,Southern Highlands Shale Margins Moist Forest,Southern Escarpment Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),558.1120799591481,85
+wet_sclerophyll_extant,3302,Southern Highlands Shale-Basalt Dry Forest,Southern Tableland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),547.094439777493,932
+wet_sclerophyll_extant,3078,Illawarra Lowland Wet Vine Forest,North Coast Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),430.13426978283684,280
+wet_sclerophyll_extant,3224,Southern Highlands Swamp Forest,Southern Escarpment Wet Sclerophyll Forests,Wet Sclerophyll Forests (Shrubby sub-formation),181.03228938832174,77
+wet_sclerophyll_extant,3266,Nattai-Morton Sandstone Peppermint Gully Forest,Southern Lowland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),110.43287913778506,116
+wet_sclerophyll_extant,3261,Sydney Sandstone Plateau Shale Forest,Northern Hinterland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),38.148938010786615,10
+wet_sclerophyll_extant,3267,Shoalhaven Foothills Turpentine Forest,Southern Lowland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),24.82831142462583,28
+wet_sclerophyll_extant,3258,Sydney Basin Creekflat Blue Gum-Apple Forest,Northern Hinterland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),20.903652350023044,18
+wet_sclerophyll_extant,3155,Illawarra North-Pittwater Bangalay Moist Forest,Northern Hinterland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),19.673409487240377,17
+wet_sclerophyll_extant,3268,Shoalhaven Foothills Turpentine-Ironbark Moist Forest,Southern Lowland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),12.76985148674157,13
+wet_sclerophyll_extant,3273,South Coast Lowland Shrub-Grass Forest,Southern Lowland Wet Sclerophyll Forests,Wet Sclerophyll Forests (Grassy sub-formation),0.6411430247343728,1
+rainforest_preclear_modelled,3047,Sydney Montane Basalt Rainforest,Southern Warm Temperate Rainforests,Rainforests,5545.051447202925,128
+rainforest_preclear_modelled,3036,South Coast Warm Temperate-Subtropical Rainforest,Subtropical Rainforests,Rainforests,1638.176685767727,253
+rainforest_preclear_modelled,3028,Illawarra Escarpment Warm Temperate Rainforest,Northern Warm Temperate Rainforests,Rainforests,1144.2734563871047,140
+rainforest_preclear_modelled,3077,Illawarra Complex Dry Rainforest,Dry Rainforests,Rainforests,385.4702587973129,121
+rainforest_preclear_modelled,3013,Illawarra Lowland Subtropical Rainforest,Subtropical Rainforests,Rainforests,261.2410703784086,118
+rainforest_preclear_modelled,3056,Central Eastern Ranges Riparian Dry Rainforest,Dry Rainforests,Rainforests,256.2054751312053,43
+rainforest_preclear_modelled,3106,South Coast Grey Myrtle Dry Rainforest,Dry Rainforests,Rainforests,4.87396804907914,2
+rainforest_preclear_modelled,4106,Illawarra Escarpment Cool Temperate Rainforest,Cool Temperate Rainforests,Rainforests,3.1026720344295726,5
+rainforest_preclear_modelled,3134,Illawarra Seacliffs Littoral Rainforest,Littoral Rainforests,Rainforests,2.2713182630483217,2
+rainforest_preclear_modelled,3037,Sydney Basin Warm Temperate Rainforest,Northern Warm Temperate Rainforests,Rainforests,1.9108973361007906,3
+rainforest_preclear_modelled,3041,Sydney Sandstone Coachwood-Grey Myrtle Rainforest,Northern Warm Temperate Rainforests,Rainforests,1.4926043945688259,1
+rainforest_preclear_modelled,3045,South Coast Temperate Gully Rainforest,Southern Warm Temperate Rainforests,Rainforests,0.025043747524397524,1
+rainforest_preclear_modelled,3024,Blue Mountains Gorge Warm Temperate Rainforest,Northern Warm Temperate Rainforests,Rainforests,0.0012578132188344306,1

@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-08-11T05:15:04Z",
+  "rainforest_patches_n": 481,
+  "rainforest_total_ha": 5300.49,
+  "core_patches_n": 784,
+  "small_pieces_n": 909,
+  "small_pieces_ha": 1383.65,
+  "size_class_rainforest": {
+    "micro_<2ha": 285,
+    "small_2_5ha": 96,
+    "medium_5_20ha": 63,
+    "large_20_100ha": 23,
+    "very_large_>100ha": 14
+  },
+  "protection_rainforest": {
+    "none": 337,
+    "protected_npws": 79,
+    "crown_or_public": 65
+  },
+  "cartographic_art": "Paint remnants as soft moss islands; emphasise micro/small size classes in 'Other Little Pieces' with dawn-gold outlines \u2014 never accusatory fills."
+}

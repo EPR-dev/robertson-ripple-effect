@@ -1,0 +1,147 @@
+{
+  "profile_version": "1.0.0",
+  "generated_at_utc": "2026-08-11T05:06:06Z",
+  "project": "Robertson Rainforest Conservation StoryMap",
+  "guiding_question": "What ecological role does Robertson Nature Reserve play today, and where could other small areas of land around Robertson strengthen that role?\n",
+  "crs_analysis": "EPSG:7856",
+  "geometry_type": "Polygon",
+  "reserve": {
+    "name": "Robertson Nature Reserve",
+    "reserve_no": "N0525",
+    "reserve_type": "NATURE RESERVE",
+    "iucn": "IV",
+    "area_ha_calculated": 5.324,
+    "gaz_area_ha": 5.391,
+    "gis_area_ha_source": 5.31444687,
+    "evidence_tag": "OBSERVED"
+  },
+  "threatened_ecological_community": {
+    "tec_name": "Robertson Rainforest in the Sydney Basin Bioregion",
+    "nsw_status": "Endangered Ecological Community",
+    "epbc_status": "Critically Endangered",
+    "nsw_determination_url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species/nsw-threatened-species-scientific-committee/determinations/final-determinations/2000-2003/robertson-rainforest-sydney-basin-bioregion-endangered-ecological-community-listing",
+    "bionet_profile_url": "https://threatenedspecies.bionet.nsw.gov.au/profile?id=20393",
+    "associated_pct_primary": "3047 Sydney Montane Basalt Rainforest",
+    "evidence_tag": "PUBLISHED",
+    "ceec_indicative_features_in_aoi": 0,
+    "ceec_indicative_intersects_reserve": false,
+    "ceec_names_on_reserve": [],
+    "ceec_names_in_aoi_sample": [],
+    "ceec_mapping_note": "CEEC_NSW label polygons are indicative. Listing status above is from NSW Scientific Committee / EPBC published determinations."
+  },
+  "vegetation_in_reserve": {
+    "majority_pct_name": "Sydney Montane Basalt Rainforest",
+    "majority_veg_class": "Southern Warm Temperate Rainforests",
+    "majority_veg_form": "Rainforests",
+    "rainforest_ha_intersect": 5.313,
+    "native_veg_ha_intersect": 5.313,
+    "pct_area_ha_list": [
+      {
+        "pct_id": 3047,
+        "pct_name": "Sydney Montane Basalt Rainforest",
+        "area_ha": 5.313
+      }
+    ],
+    "evidence_tag": "CALCULATED",
+    "source": "SVTM extant PCT clipped to reserve"
+  },
+  "landscape_rings": {
+    "native_veg_ha_within_500m": 37.992,
+    "rainforest_ha_within_500m": 31.585,
+    "cleared_contrast_ha_within_500m": 91.873,
+    "native_veg_ha_within_1000m": 93.12,
+    "rainforest_ha_within_1000m": 78.927,
+    "cleared_contrast_ha_within_1000m": 318.116,
+    "native_veg_ha_within_2000m": 327.833,
+    "rainforest_ha_within_2000m": 262.47,
+    "cleared_contrast_ha_within_2000m": 1116.63,
+    "evidence_tag": "CALCULATED"
+  },
+  "water": {
+    "distance_to_nearest_waterway_m": 80.7,
+    "evidence_tag": "CALCULATED",
+    "source": "NSW HydroLine"
+  },
+  "nearby_habitat": {
+    "rainforest_patches_within_1km_excl_touching": 15,
+    "rainforest_patches_within_2km_excl_touching": 48,
+    "nearest_rainforest_patch_m": 264.3,
+    "nearest_rainforest_patch_ha": 2.278,
+    "nearest_core_habitat_patch_m": 158.0,
+    "nearest_core_habitat_patch_ha": 0.849,
+    "evidence_tag": "CALCULATED"
+  },
+  "terrain_soils_geology": {
+    "elev_mean_m": 771.0,
+    "slope_mean_deg": 7.7,
+    "majority_soil_landscape": "Robertson",
+    "majority_geology_unit": "Bringelly Shale",
+    "intersects_basalt_or_volcanic_rock_unit": false,
+    "soil_landscape_suggests_robertson_basalt": true,
+    "evidence_tag": "CALCULATED",
+    "geology_note": "PTB seamless geology may map sedimentary rock units under the plateau; Robertson soil landscape + published TEC text support basalt-soil association. Do not treat rock-unit flag alone as proof of Tertiary basalt outcrop."
+  },
+  "biodiversity_nearby": {
+    "within_1km": {
+      "n_records": 1086,
+      "n_species": 345,
+      "n_threatened_records": 5,
+      "n_threatened_species": 3,
+      "n_flora_species": 209,
+      "n_fauna_species": 136
+    },
+    "within_2km": {
+      "n_records": 2372,
+      "n_species": 432,
+      "n_threatened_records": 20,
+      "n_threatened_species": 6,
+      "n_flora_species": 267,
+      "n_fauna_species": 165
+    },
+    "evidence_tag": "OBSERVED",
+    "caveat": "BioNet public observations; effort-biased; sensitive taxa denatured/aggregated. Absence of records is not absence of species."
+  },
+  "canopy_proxy": {
+    "method": "NDVI class contrast (Planetary Computer living feed) \u2014 NOT LiDAR canopy percent",
+    "evidence_tag": "MODELLED",
+    "ndvi_rainforest_remnant_aoi": 0.4670563638210296,
+    "ndvi_cleared_aoi": 0.4104264378547668,
+    "ndvi_delta": 0.0566299259662628,
+    "reserve_canopy_percent": null,
+    "note": "Formal % canopy inside the reserve requires DEA Fractional Cover or LiDAR. Until enabled, report AOI remnant vs cleared NDVI contrast only."
+  },
+  "surrounding_land_use": {
+    "source": "SVTM cleared_or_non_native contrast (proxy) \u2014 NSW Landuse not yet enabled",
+    "evidence_tag": "CALCULATED",
+    "within_1km": {
+      "native_veg_ha": 93.12,
+      "rainforest_ha": 78.927,
+      "cleared_contrast_ha": 318.116
+    },
+    "within_2km": {
+      "native_veg_ha": 327.833,
+      "rainforest_ha": 262.47,
+      "cleared_contrast_ha": 1116.63
+    }
+  },
+  "limitations": [
+    "No composite ecological importance score is calculated.",
+    "SVTM is regional vegetation mapping \u2014 edges are not field-survey cadastre.",
+    "CEEC polygons are indicative if present.",
+    "Canopy percent inside reserve not yet available without DEA FC / LiDAR.",
+    "NSW Landuse layer not enabled \u2014 cleared/native contrast used as proxy.",
+    "Yarrawa Brush historic surveyed boundary is not fabricated."
+  ],
+  "living_atlas": {
+    "enabled": true,
+    "refresh_this_profile_by": "python src/10_build_reserve_profile.py",
+    "related_feeds": [
+      "outputs/twin_lakes/story_package.json",
+      "greenness_summary.csv"
+    ]
+  },
+  "cartographic_art": {
+    "standard": "docs/CARTOGRAPHIC_ART_STANDARD.md",
+    "chapter_use": "01 The Little Reserve \u2014 soft reserve pulse, moss remnant wash, quiet metric callouts"
+  }
+}

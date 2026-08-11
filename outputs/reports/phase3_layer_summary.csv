@@ -1,0 +1,7 @@
+layer,features,crs
+study_area,1,EPSG:7856
+robertson_nature_reserve,1,EPSG:7856
+analysis_grid,8210,EPSG:7856
+species_observations_clean,57696,EPSG:7856
+threatened_species_aggregated,953,EPSG:7856
+biodiversity_grid,8210,EPSG:7856

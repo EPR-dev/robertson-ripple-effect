@@ -1,0 +1,11 @@
+component,true_cells,true_share,description,weighted
+near_protected,3305,0.4026,Within near_protected_m of NPWS protected area,False
+near_reserve,69,0.0084,Within near_reserve_m of Robertson Nature Reserve,False
+near_core,6503,0.7921,Within near_core_m of core habitat (rainforest/wet sclerophyll patches),False
+on_cleared,5740,0.6991,Intersects SVTM cleared / non-native contrast mask,False
+riparian_gap,458,0.0558,Within 100 m of stream AND cleared AND not on core habitat,False
+patch_gap_edge,557,0.0678,"Near core habitat edge, cleared, not already core",False
+isolated_patch_context,257,0.0313,"Near relatively isolated core patch, cleared, not core",False
+on_public_land,3498,0.4261,Intersects Crown land or NPWS protected area,False
+on_basalt_volcanic,503,0.0613,Intersects basalt/latite/igneous geology (association only),False
+plantable_slope,6474,0.7886,Slope at/under plantable_slope_deg (or unknown),False

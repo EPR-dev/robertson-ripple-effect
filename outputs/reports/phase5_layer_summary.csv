@@ -1,0 +1,11 @@
+layer,features,crs
+study_area,1,EPSG:7856
+robertson_nature_reserve,1,EPSG:7856
+hydro_lines,2966,EPSG:7856
+hydro_areas,1108,EPSG:7856
+named_watercourses,61,EPSG:7856
+riparian_buffers,2,EPSG:7856
+soil_landscapes,88,EPSG:7856
+geology_rock_units,126,EPSG:7856
+bushfire_prone_land,424,EPSG:7856
+landscape_grid,8210,EPSG:7856

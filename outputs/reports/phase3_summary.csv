@@ -1,0 +1,10 @@
+metric,value
+observations_clean_total,58152
+observations_public_points,57696
+observations_threatened,8770
+observations_sensitive,456
+species_total,2413
+species_threatened,82
+grid_cells,8210
+grid_cells_with_threat_sens,953
+sources,bionet

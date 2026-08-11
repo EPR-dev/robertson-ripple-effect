@@ -46,7 +46,7 @@ Spine: **LOSS → KEPT → LIFE → CARE → RESPECT**
 
 ```powershell
 git lfs install
-git clone <YOUR_REPO_URL> robertson-ripple-effect
+git clone https://github.com/EPR-dev/robertson-ripple-effect.git
 cd robertson-ripple-effect
 git lfs pull
 
@@ -204,12 +204,9 @@ git lfs pull
 
 ### Publishing to GitHub (project owner)
 
-```powershell
-git lfs install
-# create an empty GitHub repo, then:
-git remote add origin https://github.com/<you>/<repo>.git
-git push -u origin main
-```
+Public repo (already published):
+
+https://github.com/EPR-dev/robertson-ripple-effect
 
 Tell reviewers to install Git LFS before cloning.
 
